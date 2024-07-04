@@ -1,4 +1,4 @@
-module github.com/94peter/log
+module github.com/wayne011872/log
 
 go 1.19
 
